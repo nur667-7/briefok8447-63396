@@ -1,0 +1,90 @@
+{
+  "name": "briefok8447",
+  "logoText": "SD",
+  "tone": "premium",
+  "targetAudience": "????????? ???????",
+  "sections": ["hero", "features", "catalog", "gallery", "reviews", "faq", "contact"],
+  "hero": {
+    "title": "Запустите briefok8447 уже сегодня",
+    "subtitle": "???? ??? ?????? ??????? ? ??????? ? ????????",
+    "primaryCta": "Начать",
+    "secondaryCta": "Подробнее",
+    "imageQuery": "???? ??? ?????? ??????? ? ??????? ? ???????? ????????? ??????? design portfolio creative"
+  },
+  "theme": {
+    "accent": "#8B5CF6",
+    "accentDark": "#EC4899",
+    "warning": "#f43f5e",
+    "success": "#0f766e"
+  },
+  "features": [{"title": "Скорость", "text": "Быстрый старт с готовыми блоками (Автоматизация шаблонов)"},
+{"title": "Индивидуальность", "text": "Контент под нишу и аудиторию (Gemini structured spec)"},
+{"title": "Публикация", "text": "Автодеплой в GitHub и Vercel (Интегрированный pipeline)"}
+],
+  "categories": ["Веб", "Mobile", "Брендинг"],
+  "cards": [{
+  "id": "1",
+  "title": "Веб 1",
+  "description": "Скорость",
+  "details": "Быстрый старт с готовыми блоками. Автоматизация шаблонов",
+  "category": "Веб",
+  "imageQuery": "Веб ????????? ??????? design portfolio creative",
+  "tags": ["Веб", "portfolio", "AI"]
+},
+{
+  "id": "2",
+  "title": "Mobile 2",
+  "description": "Индивидуальность",
+  "details": "Контент под нишу и аудиторию. Gemini structured spec",
+  "category": "Mobile",
+  "imageQuery": "Mobile ????????? ??????? design portfolio creative",
+  "tags": ["Mobile", "portfolio", "AI"]
+},
+{
+  "id": "3",
+  "title": "Брендинг 3",
+  "description": "Публикация",
+  "details": "Автодеплой в GitHub и Vercel. Интегрированный pipeline",
+  "category": "Брендинг",
+  "imageQuery": "Брендинг ????????? ??????? design portfolio creative",
+  "tags": ["Брендинг", "portfolio", "AI"]
+},
+{
+  "id": "4",
+  "title": "Веб 4",
+  "description": "Скорость",
+  "details": "Быстрый старт с готовыми блоками. Автоматизация шаблонов",
+  "category": "Веб",
+  "imageQuery": "Веб ????????? ??????? design portfolio creative",
+  "tags": ["Веб", "portfolio", "AI"]
+},
+{
+  "id": "5",
+  "title": "Mobile 5",
+  "description": "Индивидуальность",
+  "details": "Контент под нишу и аудиторию. Gemini structured spec",
+  "category": "Mobile",
+  "imageQuery": "Mobile ????????? ??????? design portfolio creative",
+  "tags": ["Mobile", "portfolio", "AI"]
+},
+{
+  "id": "6",
+  "title": "Брендинг 6",
+  "description": "Публикация",
+  "details": "Автодеплой в GitHub и Vercel. Интегрированный pipeline",
+  "category": "Брендинг",
+  "imageQuery": "Брендинг ????????? ??????? design portfolio creative",
+  "tags": ["Брендинг", "portfolio", "AI"]
+}
+],
+  "galleryQueries": ["hero city business design portfolio creative", "team work office design portfolio creative", "product detail design portfolio creative", "modern interface design portfolio creative", "startup pitch design portfolio creative", "creative workspace design portfolio creative"],
+  "reviews": [
+    {"text": "Запустили рабочий сайт за один вечер, без долгой разработки.", "author": "Алия, Product Manager"},
+    {"text": "Удобные секции, фильтры и модалки. Отличный MVP для продаж.", "author": "Данияр, Founder"},
+    {"text": "Сразу получили репозиторий и деплой, всё прозрачно и быстро.", "author": "Руслан, CTO"}
+  ],
+  "faq": [{"question": "Как быстро можно запустить?", "answer": "Подчеркнуть скорость и простой процесс."},
+{"question": "Можно ли поменять дизайн?", "answer": "Указать, что блоки и тема редактируемы."},
+{"question": "Подходит ли для MVP?", "answer": "Сделать акцент на проверке гипотез."}
+]
+}
